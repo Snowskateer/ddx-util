@@ -4,18 +4,17 @@
                       "RandomizeCardImages": false
                 },
 
-        "LatestResults": "rbxassetid://15483534341",
+        "LatestResults": "rbxassetid://15703230217",
 
 	"Codes":
 		{
                 "CAPTIVE_COLLAB": ["sleeve","CAPTIVE"],
-		"MY_BAD": ["sleeve","Halloween 2023"],
                 "PLAYMATS": ["playmat","DDX"]
 		},
 
        "Announcement":
                 {
-                "Title":"Update Out Now!",
-                 "Description":"Had to restart servers to fix a major bug, sorry!\nEnjoy the new City, Speed Duels, Missions and more! Full info. in description."
+                "Title":"Christmas Update!",
+                 "Description":"Christmas Update out now! Talk to Santa for more details."
                 }
 }
