@@ -9,12 +9,13 @@
 	"Codes":
 		{
                 "CAPTIVE_COLLAB": ["sleeve","CAPTIVE"],
+		"SQUASHED": ["astrals", 5000],
                 "PLAYMATS": ["playmat","DDX"]
 		},
 
        "Announcement":
                 {
-                "Title":"Merry Christmas",
-                 "Description":"The new Christmas update is out now. Check the description for more information."
+                "Title":"Apologies for Shutdown",
+                 "Description":"The servers were restarted as a critical bug appeared and had to be fixed. Use code SQUASHED for 5000 Astrals."
                 }
 }
